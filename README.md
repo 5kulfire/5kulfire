@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @5kulfire, aka Rish or Sav.
+- 👋 Hi, I’m Skulfire, aka Rish or Sav.
 - 👀 I’m interested in robotics, C/C++ programming, and music too!
-- 🌱 I’m currently learning C, C#, Angular, jQuery with Ajax, Project Management and advanced databases. Worked with C++, Java EE, Java FX, Java EE (Springboot), PHP, HTML/CSS, Linux/UNIX, SQL, 8086x and ARM assembly, and networking. 
+- 🌱 I’m currently looking for a job as a robotics programmer, C/C++ developer or a web developer.
 - 💞️ I’m looking to collaborate on any project written in C 
 - 📫 Reach to me via email: skulfire@protonmail.com, and write github contact in the subject.
 
