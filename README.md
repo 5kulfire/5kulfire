@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Skulfire, aka Rish or Sav.
-- 👀 I’m interested in robotics, C/C++ programming, and music too!
-- 🌱 I’m currently looking for a job as a junior data/ETL/ big data engineer.
-- 💞️ I’m looking to collaborate on any project written in C 
+- 👀 I’m interested in robotics, C/C++, python programming, and music too!
+- 🌱 I’m currently looking for a job as a junior data analyst/scientist.
+- 💞️ I’m looking to collaborate on any data analysis projects.  
 - 📫 Reach to me via email: skulfire@protonmail.com, and write github contact in the subject.
 
 <!---
